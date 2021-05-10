@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects as Backeng Engineer
 - ⚡ Fun fact: I can eat fastly
 
-##Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drikdrick)](https://github.com/anuraghazra/github-readme-stats)
+## Github Stats
+![![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drikdrick)](https://github.com/anuraghazra/github-readme-stats)
