@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can eat fastly
 
 ## Github Stats
-![![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drikdrick)](https://github.com/anuraghazra/github-readme-stats)
+[!(https://github-readme-stats.vercel.app/api?username=drikdrick)](https://github.com/anuraghazra/github-readme-stats)
