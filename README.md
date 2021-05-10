@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can eat fastly
 
 ## Github Stats
-[!(https://github-readme-stats.vercel.app/api?username=drikdrick)](https://github.com/anuraghazra/github-readme-stats)
+![Githubstats]<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
