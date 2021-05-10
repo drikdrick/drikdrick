@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=drikdrick&color=green&style=plastic)
 ### Hi there👋, Welcome to my page! 
 
 <!--
@@ -19,4 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can eat fastly
 
 ## Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=drikdrick&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=drikdrick&theme=radical" />
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drikdrick)](https://github.com/anuraghazra/github-readme-stats)
