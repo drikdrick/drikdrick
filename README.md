@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I can eat fastly
 -->
-- 🔭 I’m currently working on Final Project about Online Management System
-- 🌱 I’m currently learning Flutter and Node.js
-- 👯 I’m looking to collaborate on projects as Backend Engineer
+- 🔭 I’m currently working as SDET at Blibli.com
+- 🌱 I’m currently learning Selenium and Cucumber
+- 👯 I’m looking to collaborate on E2E test framework.
 - ⚡ Fun fact: I can eat fastly
 
 ## Github Stats
